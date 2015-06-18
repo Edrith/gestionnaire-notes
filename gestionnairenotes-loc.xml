@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>H:\Ada\Projet_Algorithmique\gestionnairenotes.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>H:\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>H:\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 40" >
+      <vfs_file>H:\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_file>H:\Ada\Projet_Algorithmique\lecture_affichage.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 13" >
+      <vfs_file>H:\Ada\Projet_Algorithmique\lecture_affichage.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_file>H:\Ada\Projet_Algorithmique\tris.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >H:\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >H:\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 40">
+      <vfs_file >H:\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_file >H:\Ada\Projet_Algorithmique\lecture_affichage.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 19">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\tris.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\tris.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 29" line=" 8">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\tris.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 53" line=" 279">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 47" line=" 6">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\tris.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker current="true" column=" 18" line=" 53">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker current="true" column=" 6" line=" 38">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet Algorithmique\gestionnairenotes.gpr</vfs_file>
+    <file_marker column=" 60" line=" 16">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 40" line=" 268">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\TP06 Calendrier\Calendrier_etu\afficher_titre_mois.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\gestionnaire.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet_Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker current="true" column=" 1" line=" 37">
+      <vfs_file >C:\Users\Yamael\Documents\COURS_DUT_INFO\Ada\Projet Algorithmique\sous_prog01.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

@@ -1,0 +1,70 @@
+-- 1: ------------------------------------------------------------------------------
+-- 2: --                                                                          --
+-- 3: --                         GNAT RUN-TIME COMPONENTS                         --
+-- 4: --                                                                          --
+-- 5: --                    A D A . F L O A T _ T E X T _ I O                     --
+-- 6: --                                                                          --
+-- 7: --                                 S p e c                                  --
+-- 8: --                                                                          --
+-- 9: -- This specification is derived from the Ada Reference Manual for use with --
+-- 10: -- GNAT.  In accordance with the copyright of that document, you can freely --
+-- 11: -- copy and modify this specification,  provided that if you redistribute a --
+-- 12: -- modified version,  any changes that you have made are clearly indicated. --
+-- 13: --                                                                          --
+-- 14: ------------------------------------------------------------------------------
+
+-- 15:
+
+-- 16: with Ada.Text_IO;
+
+-- 17:
+
+-- 18: pragma Elaborate_All (Ada.Text_IO);
+
+-- 19:
+
+-- 20: package Ada.Float_Text_IO is
+with ada;
+with ada;
+with ada.ada__text_io;
+pragma elaborate_all (ada.ada__text_io);
+with ada.ada__text_io.ada__text_io__float_io;
+ada__float_text_io_E : short_integer := 0;
+package ada.ada__float_text_io is
+   subtype ada__float_text_io__num is float;
+   package ada__float_text_io__float_io renames ada__float_text_io;
+   package ada__float_text_io__float_ioGH renames
+     ada__float_text_io__float_io;
+   ada__float_text_io__default_fore : ada__text_io__field := 2;
+   ada__float_text_io__default_aft : ada__text_io__field := 5;
+   ada__float_text_io__default_exp : ada__text_io__field := 3;
+   procedure ada__float_text_io__get (file : ada__text_io__file_type;
+     item : out ada__float_text_io__num; width : ada__text_io__field :=
+     0);
+   procedure ada__float_text_io__get__2 (item : out
+     ada__float_text_io__num; width : ada__text_io__field := 0);
+   procedure ada__float_text_io__put (file : ada__text_io__file_type;
+     item : ada__float_text_io__num; fore : ada__text_io__field :=
+     ada__float_text_io__default_fore; aft : ada__text_io__field :=
+     ada__float_text_io__default_aft; exp : ada__text_io__field :=
+     ada__float_text_io__default_exp);
+   procedure ada__float_text_io__put__2 (item : ada__float_text_io__num;
+     fore : ada__text_io__field := ada__float_text_io__default_fore;
+     aft : ada__text_io__field := ada__float_text_io__default_aft; exp :
+     ada__text_io__field := ada__float_text_io__default_exp);
+   procedure ada__float_text_io__get__3 (from : string; item : out
+     ada__float_text_io__num; last : out positive);
+   procedure ada__float_text_io__put__3 (to : out string; item :
+     ada__float_text_io__num; aft : ada__text_io__field :=
+     ada__float_text_io__default_aft; exp : ada__text_io__field :=
+     ada__float_text_io__default_exp);
+private
+   pragma inline (ada__float_text_io__get__3);
+   pragma inline (ada__float_text_io__put__3);
+end ada.ada__float_text_io;
+
+-- 21:   new Ada.Text_IO.Float_IO (Float);
+
+gnatmake: "a-flteio.ali" WARNING: ALI or object file not found after compile
+gnatmake: "a-flteio.ali" not found
+gnatmake: "C:\GNAT\lib\gcc\i686-pc-mingw32\4.7.4\adainclude\a-flteio.ads" compilation erro

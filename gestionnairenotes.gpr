@@ -1,0 +1,19 @@
+project GestionnaireNotes is
+
+   for Main use ("gestionnaire.adb");
+
+   package Check is
+   end Check;
+
+   package Builder is
+   end Builder;
+
+   package Compiler is
+   end Compiler;
+
+   package Linker is
+      for Default_Switches ("ada") use ("-g");
+   end Linker;
+
+end GestionnaireNotes;
+
